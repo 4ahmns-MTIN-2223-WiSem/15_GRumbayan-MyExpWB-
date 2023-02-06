@@ -18,6 +18,6 @@ public class Kollisionsabfrage : MonoBehaviour
 
     private void OnCollisionEnter(Collision collision)
     {
-        Debug.Log("KOLLISION");
+        //Debug.Log("KOLLISION");
     }
 }
